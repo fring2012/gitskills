@@ -34,8 +34,8 @@ public class Trace {
         public static final int WARN = 5;
         public static final int ERROR = 6;
         public static final int NONE = 7;
-        private static int s_level = 7;
-        private static boolean s_show_code_position = false;
+        private static int s_level = 3;
+        private static boolean s_show_code_position = true;
         private static boolean s_write_file = true;
         private static int offset;
         private static String m_log_path = Environment.getExternalStorageDirectory() + "/iport_log.txt";

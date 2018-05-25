@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">iot_lib</string>
     <string name="action_settings">Settings</string>
+    <integer name="my_first_test">111</integer>
 </resources>
